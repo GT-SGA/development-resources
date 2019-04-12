@@ -1,7 +1,3 @@
----
-title: {{ site.title }}
----
-
 ## Using this Website
 
 We've collected a number of resources for developing software, including professional IDEs, web hosting, cloud services, and campus organizations. These resources are either provided by Georgia Tech to students at little to no cost or are provided by third-party organizations for free or at a deep discount to all university students.
