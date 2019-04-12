@@ -1,0 +1,11 @@
+categories:
+  - title: Home
+    url: /
+  - title: IDEs and Text Editors
+    url: ides-editors.html
+  - title: Cloud Computing
+    url: computing.html
+  - title: Web Hosting
+    url: hosting.html
+  - title: Clubs @ GT
+    url: clubs.html
